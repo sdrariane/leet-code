@@ -1,4 +1,4 @@
-<h2><img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Amazon-512.png" alt="amazon-icon" width="30" height="30"> 937. Reorder Data in Log Files</h2>
+<h2><img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Amazon-512.png" alt="amazon-icon" width="20" height="20"> 937. Reorder Data in Log Files</h2>
 
 - `sort()` method to reorder data into the log files </p>
 - `split()` method to split the data that I will reorder lexicographically by their contents
